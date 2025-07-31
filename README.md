@@ -1,4 +1,4 @@
-# 🏃‍♂️ Runn-Tracker (Flutter App)
+# 🏃‍♂️ Runalytics (Runn-Tracker)
 
 A cross-platform Run Tracking application built using **Flutter** for the frontend and **Spring Boot** for the backend. The app allows users to track their runs, view history, and manage profiles with secure authentication.
 
@@ -28,13 +28,13 @@ A cross-platform Run Tracking application built using **Flutter** for the fronte
 
 ## 🛠 Tech Stack
 
-| Layer     | Technology        |
-|-----------|-------------------|
-| Frontend  | Flutter (Dart)     |
+| Layer     | Technology |
+|-----------|-------|
+| Frontend  | Flutter (Dart) |
 | Backend   | Spring Boot (Java) |
-| Auth      | JWT (Token-based)  |
-| Database  | MySQL or H2 (based on your config) |
-| API Docs  | Swagger             |
+| Auth      | JWT (Token-based) |
+| Database  | MySQL |
+| API Docs  | Swagger |
 
 ---
 
@@ -75,7 +75,7 @@ A cross-platform Run Tracking application built using **Flutter** for the fronte
 - **Flutter SDK** installed: [Install Flutter](https://docs.flutter.dev/get-started/install)
 - **Java 17+**
 - **Maven**
-- **MySQL DB** or H2 for local testing
+- **MySQL DB** 
 - Android Studio / VSCode (for Flutter)
 
 ---
@@ -134,7 +134,7 @@ flutter run -d chrome
 ## 🤝 Contributors
 
 - **Riddhi Patil** - Backend Development (Spring Boot, API, Database, Authentication)
-- **Gautam** - Frontend Development (Flutter App)
+- **Hridaya** - Frontend Development (Flutter App)
 
 ---
 
